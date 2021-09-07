@@ -1,7 +1,7 @@
 # [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
  - [x] Getting Started
- - [ ] Programming a Guessing Game
+ - [x] Programming a Guessing Game
  - [ ] Common Programming Concepts
  - [ ] Understanding Ownership
  - [ ] Using Structs to Structure Related Data
