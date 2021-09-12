@@ -5,7 +5,7 @@
  - [x] Common Programming Concepts
  - [x] Understanding Ownership
  - [x] Using Structs to Structure Related Data
- - [ ] Enums and Pattern Matching
+ - [x] Enums and Pattern Matching
  - [ ] Managing Growing Projects with Packages, Crates, and Modules
  - [ ] Common Collections
  - [ ] Error Handling
