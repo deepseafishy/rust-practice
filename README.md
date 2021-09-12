@@ -4,7 +4,7 @@
  - [x] Programming a Guessing Game
  - [x] Common Programming Concepts
  - [x] Understanding Ownership
- - [ ] Using Structs to Structure Related Data
+ - [x] Using Structs to Structure Related Data
  - [ ] Enums and Pattern Matching
  - [ ] Managing Growing Projects with Packages, Crates, and Modules
  - [ ] Common Collections
