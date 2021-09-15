@@ -7,7 +7,7 @@
  - [x] Using Structs to Structure Related Data
  - [x] Enums and Pattern Matching
  - [x] Managing Growing Projects with Packages, Crates, and Modules
- - [ ] Common Collections
+ - [x] Common Collections
  - [ ] Error Handling
  - [ ] Generic Types, Traits, and Lifetimes
  - [ ] Writing Automated Tests
