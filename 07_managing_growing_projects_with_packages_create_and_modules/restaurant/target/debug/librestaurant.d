@@ -1,0 +1,1 @@
+/home/daon/Workspace/rust-practice/07_managing_growing_projects_with_packages_create_and_modules/restaurant/target/debug/librestaurant.rlib: /home/daon/Workspace/rust-practice/07_managing_growing_projects_with_packages_create_and_modules/restaurant/src/lib.rs
